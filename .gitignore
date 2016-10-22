@@ -85,5 +85,13 @@ ENV/
 # Spyder project settings
 .spyderproject
 
+# Apple Double
+.AppleDouble/
+.DS_Store
+.ipynb_checkpoints
+
 # Rope project settings
 .ropeproject
+
+setting.py
+
